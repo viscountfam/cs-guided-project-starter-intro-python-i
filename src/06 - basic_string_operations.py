@@ -2,9 +2,9 @@
 Basic String Operations
 """
 
-# 1. Strings can be defined as anything between quotes
-astring = "Hello world!"
-astring2 = 'Hello world!'
+# # 1. Strings can be defined as anything between quotes
+# astring = "Hello world!"
+# astring2 = 'Hello world!'
 
 # # 2. Use double quotes to avoid issues with apostrophes and single quotes
 # # len counts the characters including punctuation and spaces
@@ -49,20 +49,34 @@ astring2 = 'Hello world!'
 # # 10. split
 # astring = "Hello world!"
 # afewwords = astring.split(" ")
+# print(afewwords)
 
 """
 YOU DO
-3 minute timer
+5 minute timer
 """
 # assign the string "Strings are awesome!" to a variable
+
 # print the length of the string
+
 # print the first occurrence of "a"
-# count the number of "a"s in the string
+
+# print the count of the number of "a"s in the string
+
 # print the first five characters
+
 # print the last five characters in reverse
+
 # print the 17th character
+
 # print all the odd indexes
+
 # print the string in all uppercase
+
 # print the string in all lowercase
+
 # check that the string starts with "S" and ends with "!"
+
+
 # split the string on the spaces
+

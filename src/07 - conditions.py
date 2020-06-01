@@ -2,14 +2,14 @@
 Conditions
 """
 
-# 1. Comparing or evaluating expressions
-x = 2
-print(x == 2)  # prints out True
-print(x == 3)  # prints out False
-print(x < 3)  # prints out True
+# # 1. Comparing or evaluating expressions
+# x = 2
+# print(x == 2)  # prints out True
+# print(x == 3)  # prints out False
+# print(x < 3)  # prints out True
 
 # # 2. "and" & "or"
-# name = "Matt"
+# name = "Sean"
 # age = 31
 # if name == "Matt" and age == 31:
 #     print("Your name is Matt, and you are also 31 years old.")
@@ -29,7 +29,7 @@ print(x < 3)  # prints out True
 #     # do something
 #     pass
 # elif another_statement is True:  # else if
-#     # do something else
+#     print("another statement is True")
 #     pass
 # else:
 #     # do another thing
@@ -48,7 +48,7 @@ print(x < 3)  # prints out True
 
 """
 YOU DO
-2 minute timer
+3 minute timer
 """
 # # Modify the supplied code so that all of the statements evaluate to True
 # # change this code
@@ -59,11 +59,11 @@ YOU DO
 
 # print(bool(number > 15))
 
-# print(first_array)
+# print(bool(first_array))
 
-# print(len(second_array == 2))
+# print(len(second_array) == 2)
 
-# print(len(first_array + len(second_array) == 5))
+# print(len(first_array) + len(second_array) == 5)
 
 # print(first_array and first_array[0] == 1)
 

@@ -4,9 +4,9 @@ Tuples
 # A tuple is a collection which is ordered and unchangeable
 
 
-# 1. In Python, tuples are written with round brackets
-thistuple = ("apple", "banana", "cherry")
-print(thistuple)
+# # 1. In Python, tuples are written with round brackets
+# thistuple = ("apple", "banana", "cherry")
+# print(thistuple)
 
 # # 2. accessing
 # thistuple = ("apple", "banana", "cherry")
@@ -48,14 +48,3 @@ print(thistuple)
 
 # tuple3 = tuple1 + tuple2
 # print(tuple3)
-
-
-"""
-YOU DO
-2 minute timer
-"""
-# Create a tuple with five items inside it (strings)
-# print the first item in the tuple
-# print the number of items in the tuple
-# use negative indexing to print the last item in the tuple
-# use a range of indexes to print the second, third, and fourth item in the tuple

@@ -3,14 +3,14 @@ Dictionaries
 """
 # similar to arrays, but works with keys and values instead of indexes.
 
-# 1. Add key - value pairs
-phonebook = {}
-phonebook["Matt"] = 2053457723
-phonebook["Sean"] = 5063489765
-phonebook["Beej"] = 7097342365
-print(phonebook)
+# # 1. Add key - value pairs
+# phonebook = {}
+# phonebook["Matt"] = 2053457723
+# phonebook["Sean"] = 5063489765
+# phonebook["Beej"] = 7097342365
+# print(phonebook)
 
-# # 2. Initialize with values
+# # # 2. Initialize with values
 # phonebook = {
 #     "Matt" : 2053457723,
 #     "Sean" : 5063489765,
@@ -36,14 +36,5 @@ print(phonebook)
 # }
 # del phonebook["Beej"]
 # print(phonebook)
-# phonebook.pop("John")
+# phonebook.pop("Sean")
 # print(phonebook)
-
-
-"""
-YOU DO
-2 minute timer
-"""
-# Create your own phonebook dictionary
-# Add a few key-value pairs where the key is the name and the value is the phone number
-# Remove one of items and store the value in a variable

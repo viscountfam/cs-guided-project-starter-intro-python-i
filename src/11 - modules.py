@@ -3,25 +3,25 @@ Modules
 """
 # each module has a specific functionality and is a different file
 
-# 1. import command
-# game.py
-# import the draw module
-import draw
+# # 1. import command
+# # game.py
+# # import the draw module
+# import draw
 
-def play_game():
-    pass
+# def play_game():
+#     pass
 
-def main():
-    result = play_game()
-    draw.draw_game(result)
+# def main():
+#     result = play_game()
+#     draw.draw_game(result)
 
-# draw.py
+# # draw.py
 
-def draw_game():
-    pass
+# def draw_game():
+#     pass
 
-def clear_screen(screen):
-    pass
+# def clear_screen(screen):
+#     pass
 
 # # 2. from command
 # # game.py
@@ -56,13 +56,5 @@ def clear_screen(screen):
 #     # this can either be visual or textual depending on visual_mode
 #     draw.draw_game(result)
 
-# # 5. dir and hepl
+# # 5. dir and help
 # # Just show fiddling around with help and dir in the terminal
-
-
-"""
-YOU DO
-3 minute timer
-"""
-# Print an alphabetically sorted list of all functions
-# in the `re` module, which contain the word "find".

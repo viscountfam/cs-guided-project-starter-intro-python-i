@@ -2,9 +2,9 @@
 Basic Operators
 """
 
-# 1. Addition, Subtraction, Multiplication, Division with Numbers
-number = 1 + 2 * 3 / 4.0
-print(number)
+# # 1. Addition, Subtraction, Multiplication, Division with Numbers
+# number = 1 + 2 * 3 / 4.0
+# print(number)
 
 # # 2. Modulo returns integer remainder of division
 # remainder = 11 % 3
@@ -36,11 +36,15 @@ print(number)
 
 """
 YOU DO
-2 minute timer
+3 minute timer
 """
 # assign 1 to `x`
 # assign 2 to `y`
+
 # Create two lists called `x_list` and `y_list`
 # make `x_list` contain 10 instances of `x`
 # make `y_list` contain 10 instances of `y`
-# create a list called `combined` that contains 10 `x`s and 10 `y`s by concatenating `x_list` and `y_list`
+
+# create a list called `combined` that
+# contains 10 `x`s and 10 `y`s by concatenating
+# `x_list` and `y_list`
