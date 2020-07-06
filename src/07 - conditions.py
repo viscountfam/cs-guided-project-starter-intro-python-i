@@ -53,9 +53,9 @@ YOU DO
 """
 # Modify the supplied code so that all of the statements evaluate to True
 # change this code
-number = 10
+number = 200
 second_number = 10
-first_array = []
+first_array = [1]
 second_array = [1,2,3]
 
 print(bool(number > 15))
